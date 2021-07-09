@@ -1,6 +1,6 @@
 # cs50_degrees
 
-Set of logical operations to derive information through information. Main goal is to create an AI that learns from what it already knows or given.
+Set of logical operations to derive information through information. Main goal is to create a basic AI that can link and derive information.
 
 Part of CS50: Introduction to AI course.
 
